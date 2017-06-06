@@ -3,16 +3,12 @@
 [![Build status][travis-image]][travis-url]
 [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Bipolar Disorder](https://htmlacademy.ru/profile/id18339).
-* Наставник: `Неизвестно`.
+* Студент: [Bipolar Disorder](https://htmlacademy.ru/profile/id18339)
 
 ### Немного о себе
 
-##### Вы прошли интенсивный онлайн-курс «Базовый HTML и CSS»?
-`Да, успешно | Да, но не защитил проект | Нет, я сразу записался на базовый JS`.
-
 ##### Вы прошли интенсивный онлайн-курс «Продвинутый HTML и CSS»?
-`Да, успешно | Да, но не защитил проект | Нет, я сразу записался на базовый JS`.
+`Да, успешно`.
 
 ---
 
