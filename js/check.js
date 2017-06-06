@@ -14,7 +14,6 @@ function getMessage(a, b) {
         var length = 0;
         for (var i = 0; i < a.length; i++) {
             a[i] = a[i] * b[i];
-            console.log(a[i]);
             length +=  a[i];
         }
         message = 'Я прошёл ' + length + ' метров';
