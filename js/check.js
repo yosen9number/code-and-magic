@@ -10,7 +10,7 @@ function getMessage(a, b) {
     else if (typeof a == 'number') {
         message = 'Я прыгнул на ' + (a * 100) + ' сантиметров';
     }
-    else if (typeof a == 'object' && b == 'object'){
+    else if (typeof a == 'object' && typeof b == 'object'){
         var length = 0;
         for (var i = 0; i < a.length; i++) {
             a[i] = a[i] * b[i];
